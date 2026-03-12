@@ -17,6 +17,11 @@ Key questions this project answers:
 - Is remote work still common in data science, or is the market pulling back to onsite?
 - What experience level does the market demand, and how hard is it to break in as a new grad?
 ---
+
+## Data Sources
+[datasciencejobs.com](https://datasciencejobs.com/)
+[remoteok.com](https://remoteok.com/)
+---
 ## Dashboards
 
 ### Global Data Science Job Market Analysis
@@ -216,7 +221,4 @@ EDA.ipynb
 - **C++ is uniquely critical for Computer Vision Engineers** (11 mentions), the only role where a systems language ranks in the top skills, reflecting real-time inference requirements
  
 ---
-## Data Sources
-[datasciencejobs.com](https://datasciencejobs.com/)
-[remoteok.com](https://remoteok.com/)
 
