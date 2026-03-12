@@ -28,7 +28,7 @@ Key questions this project answers:
 ---
 ## Dashboards
 
-### Global Dashboard
+### Global Data Science Job Market Analysis
 
 ![Global Dashboard](dashboard/Global_Dashboard.png)
 
