@@ -93,9 +93,9 @@ https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobM
 
 Clone the repository:
 
-git clone https://github.com/yourusername/Job_Analytics.git
+`git clone https://github.com/wrezachow/global-data-science-job-analysis.git`
 
-cd Job_Analytics
+`cd global-data-science-job-analysis.git`
 
 
 Create a virtual environment:
