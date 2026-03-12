@@ -1,24 +1,21 @@
 ## Problem Statement
 
-Comprehensive analytics dashboards analyzing the global data science job market using thousands of job postings collected from multiple job boards. By aggregating and enriching job listings from sources such as datasciencejobs.com and remoteok.com, the project provides insights into hiring trends, required skills, experience expectations, and salary distributions across different roles.
+As a data science student navigating an increasingly competitive job market, I wanted to answer 
+a simple question: *what does the market actually want?* Rather than relying on anecdotal advice, 
+I built an end-to-end data pipeline to collect, enrich, and analyze thousands of real job postings 
+from datasciencejobs.com and remoteok.com.
 
-The dashboards provide a wide range of visualizations and metrics, including:
+The pipeline scrapes job listings using Selenium, cleans and transforms the raw data with Pandas, 
+and uses the OpenAI API to infer experience levels and education requirements at scale. The results 
+are visualized across three interactive Tableau dashboards covering hiring trends, skill demand, 
+and salary distributions.
 
-- Bar charts showing the top companies hiring data professionals and the distribution of jobs across different roles.
-
-- Heatmaps comparing skill demand across roles such as Data Scientist, ML Engineer, Data Engineer, and AI Engineer.
-
-- Geographic visualizations displaying the global distribution of data science job postings.
-
-- Charts analyzing the distribution of experience levels required by employers.
-
-- Salary comparisons highlighting average compensation differences between data-related roles.
-
-- Visualizations exploring the demand for major technologies including Python, SQL, AWS, PyTorch, and cloud platforms.
-
-- Programming language and cloud platform demand charts identifying the most frequently requested technologies in job postings.
-
-
+Key questions this project answers:
+- Which companies are hiring the most data professionals right now?
+- What skills are actually required — and do they differ by role?
+- How does salary vary across Data Scientist, ML Engineer, and Data Engineer positions?
+- Is remote work still common in data science, or is the market pulling back to onsite?
+- What experience level does the market demand, and how hard is it to break in as a new grad?
 ---
 ## Dashboards
 
