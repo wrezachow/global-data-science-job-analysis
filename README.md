@@ -4,27 +4,25 @@ Comprehensive analytics dashboards analyzing the global data science job market 
 
 The dashboards provide a wide range of visualizations and metrics, including:
 
-Bar charts showing the top companies hiring data professionals and the distribution of jobs across different roles.
+- Bar charts showing the top companies hiring data professionals and the distribution of jobs across different roles.
 
-Heatmaps comparing skill demand across roles such as Data Scientist, ML Engineer, Data Engineer, and AI Engineer.
+- Heatmaps comparing skill demand across roles such as Data Scientist, ML Engineer, Data Engineer, and AI Engineer.
 
-Geographic visualizations displaying the global distribution of data science job postings.
+- Geographic visualizations displaying the global distribution of data science job postings.
 
-Charts analyzing the distribution of experience levels required by employers.
+- Charts analyzing the distribution of experience levels required by employers.
 
-Salary comparisons highlighting average compensation differences between data-related roles.
+- Salary comparisons highlighting average compensation differences between data-related roles.
 
-Visualizations exploring the demand for major technologies including Python, SQL, AWS, PyTorch, and cloud platforms.
+- Visualizations exploring the demand for major technologies including Python, SQL, AWS, PyTorch, and cloud platforms.
 
-Programming language and cloud platform demand charts identifying the most frequently requested technologies in job postings.
+- Programming language and cloud platform demand charts identifying the most frequently requested technologies in job postings.
 
 Here are the links to the Tableau public dashboards:
 
-Global Data Science Job Market Analysis
-
-Tech Stack Demand
-
-Hiring Landscape
+- [Global Data Science Job Market Analysis](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/GlobalDataScienceJobMarketAnalysis)
+- [Tech Stack Demand](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/TechStackDemand)
+- [Hiring Landscape](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/HiringLandscape)
 
 ## Dashboards
 
