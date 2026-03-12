@@ -216,3 +216,7 @@ EDA.ipynb
 - **C++ is uniquely critical for Computer Vision Engineers** (11 mentions), the only role where a systems language ranks in the top skills, reflecting real-time inference requirements
  
 ---
+## Data Sources
+[datasciencejobs.com](https://datasciencejobs.com/)
+[remoteok.com](https://remoteok.com/)
+
