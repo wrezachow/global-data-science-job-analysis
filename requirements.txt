@@ -1,0 +1,12 @@
+pandas==3.0.1
+numpy==2.4.2
+selenium==4.41.0
+seleniumbase==4.47.1
+openai==2.26.0
+python-dotenv==1.2.2
+tqdm==4.67.3
+beautifulsoup4==4.14.3
+requests==2.32.5
+seaborn
+matplotlib
+pycountry
