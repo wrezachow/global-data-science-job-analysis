@@ -53,7 +53,7 @@ Key views include:
 
 Key Findings: 
 - **4,284 jobs** were collected across **1,715 unique companies** the market is highly fragmented with no single employer dominating hiring
-- **37% of postings are remote** significantly above the historical pre-pandemic average, reflecting a sustained shift in data science hiring norms
+- **16% of postings are remote** significantly above the historical pre-pandemic average, reflecting a sustained shift in data science hiring norms
 - **Mid-level roles dominate** at 2,500+ postings, followed closely by senior at ~2,400 entry-level and lead roles make up a small minority, signaling a market that rewards prior experience
 - **Research Scientists and ML Engineers command the highest salaries**, both averaging above $160K, while Data Engineers and AI Engineers trail slightly behind
 ---
