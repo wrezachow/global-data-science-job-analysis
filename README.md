@@ -12,7 +12,7 @@ and salary distributions.
 
 Key questions this project answers:
 - Which companies are hiring the most data professionals right now?
-- What skills are actually required — and do they differ by role?
+- What skills are actually required and do they differ by role?
 - How does salary vary across Data Scientist, ML Engineer, and Data Engineer positions?
 - Is remote work still common in data science, or is the market pulling back to onsite?
 - What experience level does the market demand, and how hard is it to break in as a new grad?
