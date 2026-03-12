@@ -19,8 +19,10 @@ Key questions this project answers:
 ---
 
 ## Data Sources
-[datasciencejobs.com](https://datasciencejobs.com/)\n
+[datasciencejobs.com](https://datasciencejobs.com/)
+
 [remoteok.com](https://remoteok.com/)
+
 ---
 ## Dashboards
 
