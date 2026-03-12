@@ -149,7 +149,7 @@ Outputs: `data/raw/scraped_jobs_raw.csv`
 Open and run all cells in:
  
 ```
-data_transform.ipynb
+1_data_transform.ipynb
 ```
  
 Handles null values, salary parsing, work mode derivation, deduplication, and skills normalization.
@@ -161,7 +161,7 @@ Outputs: `data/clean/clean_jobs.csv`
 Open and run all cells in:
  
 ```
-llm_parse.ipynb
+2_llm_parse.ipynb
 ```
  
 Uses `gpt-4o-mini` to infer `experience_level` and `education` from job title and skills for all rows.
@@ -173,7 +173,7 @@ Outputs: `data/clean/filled_jobs.csv`
 Open and run all cells in:
 
 ```
-EDA.ipynb
+3_EDA.ipynb
 ```
  Explores skill frequency, salary distributions, experience level breakdowns, and remote vs onsite trends. Findings feed directly into the Tableau dashboards.
 
