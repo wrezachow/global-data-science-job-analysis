@@ -201,21 +201,21 @@ EDA.ipynb
 ## Key Findings
  
 ### Global Overview
-- **4,284 jobs** were collected across **1,715 unique companies** — the market is highly fragmented with no single employer dominating hiring
-- **37% of postings are remote** — significantly above the historical pre-pandemic average, reflecting a sustained shift in data science hiring norms
-- **Mid-level roles dominate** at 2,500+ postings, followed closely by senior at ~2,400 — entry-level and lead roles make up a small minority, signaling a market that rewards prior experience
+- **4,284 jobs** were collected across **1,715 unique companies** the market is highly fragmented with no single employer dominating hiring
+- **37% of postings are remote** significantly above the historical pre-pandemic average, reflecting a sustained shift in data science hiring norms
+- **Mid-level roles dominate** at 2,500+ postings, followed closely by senior at ~2,400 entry-level and lead roles make up a small minority, signaling a market that rewards prior experience
 - **Research Scientists and ML Engineers command the highest salaries**, both averaging above $160K, while Data Engineers and AI Engineers trail slightly behind
  
 ### Hiring Landscape
-- **The United States accounts for the overwhelming majority of postings** — the map shows a stark concentration in North America, with Europe a distant second
-- **Apple, Amazon, and Microsoft are the top 3 hiring companies** with 118, 111, and 93 postings respectively — Big Tech remains the dominant employer of data professionals
+- **The United States accounts for the overwhelming majority of postings** the map shows a stark concentration in North America, with Europe a distant second
+- **Apple, Amazon, and Microsoft are the top 3 hiring companies** with 118, 111, and 93 postings respectively. Big Tech remains the dominant employer of data professionals
 - **Data Scientist is the most posted role by volume**, accounting for the largest share of the jobs-by-role breakdown, ahead of ML Engineer and Data Engineer
-- **78.69% of jobs are onsite** — despite remote work being common in tech broadly, most data science roles still require physical presence
+- **78.69% of jobs are onsite** despite remote work being common in tech broadly, most data science roles still require physical presence
  
 ### Tech Stack Demand
-- **Python is the undisputed #1 skill** with 230+ mentions across all roles — no other skill comes close, appearing across every role from Data Analyst to Research Scientist
-- **AWS leads cloud platforms** with 100+ mentions, nearly 1.5x Azure (65) and over 2x GCP (47) — cloud skills are non-negotiable for Data and ML Engineers
+- **Python is the undisputed #1 skill** with 230+ mentions across all roles, no other skill comes close, appearing across every role from Data Analyst to Research Scientist
+- **AWS leads cloud platforms** with 100+ mentions, nearly 1.5x Azure (65) and over 2x GCP (47) cloud skills are non-negotiable for Data and ML Engineers
 - **PyTorch dominates ML frameworks** with 43 mentions in ML Engineer postings alone, outpacing TensorFlow — the industry has converged on PyTorch for deep learning work
-- **C++ is uniquely critical for Computer Vision Engineers** (11 mentions) — the only role where a systems language ranks in the top skills, reflecting real-time inference requirements
+- **C++ is uniquely critical for Computer Vision Engineers** (11 mentions), the only role where a systems language ranks in the top skills, reflecting real-time inference requirements
  
 ---
