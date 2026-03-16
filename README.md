@@ -211,6 +211,7 @@ Open and run all cells in:
 | `experience_level` | `entry-level`, `mid-level`, `senior`, `lead` — LLM inferred |
 | `education` | Degree requirement — LLM inferred |
 | `source` | Source job board |
+| `job_url` | Direct link to posting |
 
 ---
 
@@ -227,9 +228,7 @@ This project is licensed under the MIT License.
 - GitHub: [@wrezachow](https://github.com/wrezachow)
 - Repository: [global-data-science-job-analysis](https://github.com/wrezachow/global-data-science-job-analysis)
 - Tableau: [Live Dashboards](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/GlobalDataScienceJobMarketAnalysis)
-
-| `job_url` | Direct link to posting |
- 
+- LinkedIn: [wasef-chowdhury](https://www.linkedin.com/in/wasef-chowdhury/)
 ---
  
 
