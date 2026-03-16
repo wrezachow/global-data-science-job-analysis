@@ -1,6 +1,6 @@
 import pandas as pd
-from scraper.datasciencejobs import scrape as scrape_dsj
-from scraper.remoteok import scrape as scrape_remoteok
+from datasciencejobs import scrape as scrape_dsj
+from remoteok import scrape as scrape_remoteok
 
 print("Scraping datasciencejobs...")
 dsj_jobs = scrape_dsj()
