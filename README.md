@@ -19,19 +19,18 @@ Key questions this project answers:
 - Is remote work still common in data science, or is the market pulling back to onsite?
 - What experience level does the market demand, and how hard is it to break in as a new grad?
 ---
-## Live Dashboards
+## Live Dashboard
  
 | Dashboard | Description |
 |-----------|-------------|
-| [Global Overview](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/GlobalDataScienceJobMarketAnalysis) | High-level market overview — remote share, salary by role, experience demand |
-| [Hiring Landscape](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/HiringLandscape) | Company hiring behavior, job distribution by country and role |
-| [Tech Stack Demand](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/TechStackDemand) | Skill demand by role, top technologies, cloud and language trends |
+| [Global Overview](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/GlobalDataScienceJobMarketAnalysis) | High-level market overview remote share, salary by role, experience demand |
 
 ## Data Sources
+| Website | Description |
+|-----------|-------------|
+| [datasciencejobs.com](https://datasciencejobs.com/) | datasciencejobs.com is a niche job board that aggregates data science listings from across the web. |
 
-[datasciencejobs.com](https://datasciencejobs.com/)
-
-[remoteok.com](https://remoteok.com/)
+| [remoteok.com](https://remoteok.com/) |  remoteok.com is a remote-only job board covering tech roles **globally**. | 
 
 ---
 ## Dashboards
