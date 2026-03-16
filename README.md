@@ -1,5 +1,7 @@
 # Global Data Science Job Market Analysis
 
+An end-to-end data pipeline that scrapes, enriches, and visualizes thousands of data science job postings from multiple job boards to surface hiring trends, in-demand skills, salary distributions, and experience expectations across the global market.
+
 ## Problem Statement
 
 As a data science student navigating an increasingly competitive job market, I wanted to answer 
@@ -209,6 +211,23 @@ Open and run all cells in:
 | `experience_level` | `entry-level`, `mid-level`, `senior`, `lead` — LLM inferred |
 | `education` | Degree requirement — LLM inferred |
 | `source` | Source job board |
+
+---
+
+## License
+ 
+This project is licensed under the MIT License.
+ 
+---
+ 
+ ## Contact
+ 
+**Wasef Chowdhury**
+ 
+- GitHub: [@wrezachow](https://github.com/wrezachow)
+- Repository: [global-data-science-job-analysis](https://github.com/wrezachow/global-data-science-job-analysis)
+- Tableau: [Live Dashboards](https://public.tableau.com/app/profile/wasef.chowdhury/viz/GlobalDataScienceJobMarketAnalysis/GlobalDataScienceJobMarketAnalysis)
+
 | `job_url` | Direct link to posting |
  
 ---
