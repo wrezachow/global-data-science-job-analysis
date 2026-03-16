@@ -29,7 +29,6 @@ Key questions this project answers:
 | Website | Description |
 |-----------|-------------|
 | [datasciencejobs.com](https://datasciencejobs.com/) | datasciencejobs.com is a niche job board that aggregates data science listings from across the web. |
-
 | [remoteok.com](https://remoteok.com/) |  remoteok.com is a remote-only job board covering tech roles **globally**. | 
 
 ---
